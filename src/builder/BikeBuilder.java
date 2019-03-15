@@ -1,3 +1,5 @@
+package builder;
+
 public class BikeBuilder {
 
     private String wheel;
