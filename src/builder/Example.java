@@ -1,6 +1,9 @@
+package builder;
 /*
-* by kaixugege
-* */
+ * by kaixugege
+ * */
+
+import builder.BikeCreator;
 
 public class Example {
     public static void main(String[] args) {

@@ -1,4 +1,5 @@
-# BuilderDemo
+#设计模式
+### BuilderDemo
 一个建造者模式的例子
 # 
 *******
