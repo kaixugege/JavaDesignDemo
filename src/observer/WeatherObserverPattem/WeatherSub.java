@@ -34,7 +34,7 @@ public class WeatherSub {
      */
     protected void notifyObservers() {
         for (Observer observer : observers) {
-            observer.update(this);
+            observer.updates(this);
         }
     }
 }

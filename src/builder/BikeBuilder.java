@@ -8,7 +8,6 @@ public class BikeBuilder {
 
     public BikeBuilder wheel(String wheel){
         this.wheel = wheel;
-
         return this;
     }
 

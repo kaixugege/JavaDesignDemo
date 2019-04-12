@@ -1,4 +1,4 @@
-package factory.simple;
+package factory.simplefactory;
 
 public class TwoProduct extends Product {
     @Override

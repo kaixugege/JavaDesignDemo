@@ -8,12 +8,12 @@ public class Example {
 
         //2、创建观察者
         ConcreteWeatherObserver observerGf = new ConcreteWeatherObserver();
-        observerGf.setObserverName("女朋友");
-        observerGf.setRemindThing("去逛街拉");
+//        observerGf.setObserverName("女朋友");
+//        observerGf.setRemindThing("去逛街拉");
 
         ConcreteWeatherObserver observerMother = new ConcreteWeatherObserver();
-        observerMother.setObserverName("妈妈");
-        observerMother.setRemindThing("回家吃饭");
+//        observerMother.setObserverName("妈妈");
+//        observerMother.setRemindThing("回家吃饭");
 
         //3、注册观察者
         weatherSubject.attach(observerGf);

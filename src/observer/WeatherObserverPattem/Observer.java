@@ -14,5 +14,5 @@ public interface Observer {
      *
      * @param sub 传入目标对象，方便回去相应的目标对象的状态
      */
-    public void update(WeatherSub sub);
+    public void updates(WeatherSub sub);
 }

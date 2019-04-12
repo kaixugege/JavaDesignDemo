@@ -1,4 +1,4 @@
-package factory.simple;
+package factory.simplefactory;
 
 /**
  * 具体产品的父类

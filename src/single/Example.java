@@ -3,7 +3,9 @@ package single;
 import java.security.PublicKey;
 
 /**
- * 懒汉模式，线程不安全，需要双重加锁，防止反射攻击还需要  就需要按照Joshua Bloch做说的，加个异常处理
+ *
+ * 懒汉模式，线程不安全，需要双重加锁，防止反射攻击还需要
+ * 就需要按照Joshua Bloch做说的，加个异常处理
  *
  */
 public class Example {
